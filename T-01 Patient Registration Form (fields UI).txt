@@ -1,0 +1,7 @@
+feat: add patient registration form fields (T-01)
+
+Added inputs for full name, email address, phone number, and date of birth
+
+Added password + confirm password fields to complete account creation
+
+Placed Submit and Reset actions on the registration form
