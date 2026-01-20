@@ -1,0 +1,7 @@
+feat: implement registration form reset behaviour (T-03)
+
+Reset all registration inputs back to default/empty state
+
+Cleared all validation errors and helper text on reset
+
+Ensured reset does not trigger account creation submission
